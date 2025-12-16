@@ -6,15 +6,15 @@ Repository for Psychology Modules for El Camino College
 ## Launch Resume Notebook
 
 **Student Version:**  
-[![Launch on DataHub](https://img.shields.io/badge/Launch--Student--El%20Camino%20College%20Datahub-blue.svg)](https://elcamino.cloudbank.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-modules%2Fecc-psychology&branch=main&urlpath=lab%2Ftree%2Fecc-psychology%2Fresume%2FInvJNB-ResumeCallbacks-NameRace-COMPLETE.ipynb)
+[![Launch on DataHub](https://img.shields.io/badge/Launch--Student--El%20Camino%20College%20Datahub-blue.svg)](https://elcamino.cloudbank.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-modules%2Fecc-psychology&branch=main&urlpath=lab%2Ftree%2Fecc-psychology%2Fresume%2FInvJNB-ResumeCallbacks-NameRace-STUDENT.ipynb)
 
 **Instructor Version:**  
-[![Launch on DataHub](https://img.shields.io/badge/Launch--Instructor--El%20Camino%20College%20Datahub-darkblue.svg)](https://elcamino.cloudbank.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-modules%2Fecc-psychology&branch=main&urlpath=lab%2Ftree%2Fecc-psychology%2Fresume%2FInvJNB-ResumeCallbacks-NameRace-INSTRUCTOR.ipynb)
+[![Launch on DataHub](https://img.shields.io/badge/Launch--Instructor--El%20Camino%20College%20Datahub-darkblue.svg)](https://elcamino.cloudbank.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-modules%2Fecc-psychology&branch=main&urlpath=lab%2Ftree%2Fecc-psychology%2Fresume%2FInvJNB-ResumeCallbacks-NameRace-COMPLETE.ipynb)
 
 ## Launch Soccer Notebook
 
 **Student Version:**  
-[![Launch on DataHub](https://img.shields.io/badge/Launch--Student--El%20Camino%20College%20Datahub-blue.svg)](https://elcamino.cloudbank.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-modules%2Fecc-psychology&branch=main&urlpath=lab%2Ftree%2Fecc-psychology%2Fsoccer%2FInvJNB-SoccerNotebook-COMPLETE.ipynb)
+[![Launch on DataHub](https://img.shields.io/badge/Launch--Student--El%20Camino%20College%20Datahub-blue.svg)](https://elcamino.cloudbank.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-modules%2Fecc-psychology&branch=main&urlpath=lab%2Ftree%2Fecc-psychology%2Fsoccer%2FInvJNB-BirthMonthSoccer-STUDENT.ipynb)
 
 **Instructor Version:**  
-[![Launch on DataHub](https://img.shields.io/badge/Launch--Instructor--El%20Camino%20College%20Datahub-darkblue.svg)](https://elcamino.cloudbank.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-modules%2Fecc-psychology&branch=main&urlpath=lab%2Ftree%2Fecc-psychology%2Fsoccer%2FInvJNB-SoccerNotebook-INSTRUCTOR.ipynb)
+[![Launch on DataHub](https://img.shields.io/badge/Launch--Instructor--El%20Camino%20College%20Datahub-darkblue.svg)](https://elcamino.cloudbank.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-modules%2Fecc-psychology&branch=main&urlpath=lab%2Ftree%2Fecc-psychology%2Fsoccer%2FInvJNB-BirthMonthSoccer-COMPLETE.ipynb)
