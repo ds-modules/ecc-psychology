@@ -12,7 +12,7 @@ jobs:
           TOKEN:   ${{ secrets.ECC_TEXTBOOK_PAT }}
           REPO:    ${{ github.repository }}
         run: |
-          # Extract folder name (ecc-physics → ecc-physics)
+          # Extract folder name (ecc-psychology → ecc-psychology)
           FOLDER_NAME="${REPO##*/}"
 
           curl -s -X POST \
